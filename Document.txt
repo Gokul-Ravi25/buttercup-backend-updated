@@ -1,0 +1,38 @@
+getoot API
+
+1)
+npm init
+
+this will create the packkage.json
+
+2)
+
+npm i express mongoose dotenv helmet morgan nodemon
+
+this will install the packages
+
+3) 
+import packages of 
+expressmongoose
+dotenv helmet morgan'
+nodemon
+
+user: admin
+mongodbpwd: Qeua7W6jy86SRQr
+
+4)
+to add password in the server
+
+use : npm bcrypt;
+
+
+frontend:
+
+npm i timeago.js
+
+619bdc493de73127331ff245
+
+
+install multer path to upload files,(middleware of node js)
+
+npm install multer path
